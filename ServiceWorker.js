@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-AquariaTouchpoolAR_WebAR-0.1.0";
 const contentToCache = [
-    "Build/web.loader.js",
-    "Build/web.framework.js",
-    "Build/web.data",
-    "Build/web.wasm",
+    "Build/touchpool_1.loader.js",
+    "Build/touchpool_1.framework.js",
+    "Build/touchpool_1.data",
+    "Build/touchpool_1.wasm",
     "TemplateData/style.css"
 
 ];
